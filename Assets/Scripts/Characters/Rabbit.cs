@@ -197,7 +197,6 @@ public class Rabbit : MonoBehaviour
     {
         if (!isHiding)
         {
-            Debug.Log($"{CanSeeTarget()} {CanSeeMe()}");
             
             if (CanSeeTarget() && CanSeeMe())
             {

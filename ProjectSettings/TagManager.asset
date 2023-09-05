@@ -10,6 +10,14 @@ TagManager:
   - Hide
   - AggressiveAI
   - wp
+  - Reception
+  - Door
+  - WaitingArea
+  - StaffLounge
+  - Home
+  - Patient
+  - Nurse
+  - Cubicle
   layers:
   - Default
   - TransparentFX
